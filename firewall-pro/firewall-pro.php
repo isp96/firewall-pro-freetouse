@@ -1,9 +1,9 @@
 <?php
 /**
- * Plugin Name: My Simple Plugin
+ * Plugin Name: Firewall Pro
  * Description: A simple plugin with no functionality.
  * Version: 1.0
- * Author: Author
+ * Author: Stephanie Moore
  */
 
 register_activation_hook( __FILE__, "activate_plugin_routine" );
