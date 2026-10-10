@@ -1,10 +1,10 @@
-# Firewall Pro Nulled - Descarga Gratis (2026)
+# Firewall Pro Nulled Gratis - Version 2026
 
-**Firewall Pro nulled - descarga gratis, ultima version 2026.** Este repositorio distribuye la version actual y completamente funcional de **Firewall Pro** para WordPress - open-source, actualizada para 2026, sin registro y sin pagos.
+**Firewall Pro gratis - version 2026, nulled y totalmente funcional.** Todo lo necesario para instalar y usar Firewall Pro en cualquier sitio de WordPress, directamente desde la seccion de releases de este repositorio.
 
 ## Que es Firewall Pro
 
-Firewall Pro es un plugin de WordPress utilizado por miles de sitios web. La version distribuida aqui es el paquete completo: sube el zip desde el panel de administracion de WordPress y activalo como cualquier otro plugin. Sin clave de licencia, sin pasos de activacion, sin restricciones.
+Firewall Pro amplía WordPress con un conjunto completo de funciones. Este repositorio aloja la distribucion completa: el zip de la seccion de releases se instala directamente desde **Plugins -> Anadir nuevo -> Subir plugin** y funciona nada mas activarlo.
 
 ## Caracteristicas principales
 
@@ -39,30 +39,30 @@ Sin FTP, sin copiar archivos manualmente, sin clave de licencia. El plugin se in
 
 ## Por que descargar de este repositorio
 
-Este repositorio es un punto de distribucion open-source: versiones etiquetadas, registro de cambios publico y descarga directa sin redirecciones. A diferencia de los sitios de descarga habituales, aqui no hay pop-ups, ni botones falsos, ni enlaces acortados - el archivo que descargas es el descrito en esta pagina.
+Todo se distribuye como open-source: versiones etiquetadas, historial visible, descargas directas del archivo. Sin ventanas emergentes, sin mirrors, sin temporizadores - solo el paquete del plugin.
 
 ## Preguntas frecuentes
 
-**Funciona Firewall Pro con mi tema?**
-Si - funciona con todos los temas y constructores de paginas modernos.
+**Es la version completa de Firewall Pro?**
+Si - el paquete completo del plugin, todas las funciones incluidas y desbloqueadas.
 
-**Se necesita registro para descargar Firewall Pro gratis?**
-Sin cuenta, sin clave, sin encuesta - solo el archivo de release.
+**Es seguro instalar Firewall Pro?**
+El zip se instala como cualquier plugin del directorio de WordPress. Sin codigo extra, sin rastreadores, sin anuncios inyectados.
 
-**Es la ultima version de Firewall Pro?**
-Si - la version 2026, actualizada para las versiones mas recientes de WordPress.
+**Que version de WordPress necesito?**
+WordPress 6.0 - 6.7 o superior, PHP 7.4 - 8.3 o superior. Multisitio soportado.
 
-**Puedo usarlo en varios sitios?**
-Si - instalalo en tantos sitios WordPress como necesites.
+**Como actualizo Firewall Pro?**
+Descarga la version mas reciente de este repositorio y reemplaza la anterior - la configuracion se conserva.
 
-**Como se entrega el archivo?**
-Como zip en la seccion de releases - se instala desde el cargador estandar del panel de administracion.
+**Por que es gratis?**
+El proyecto se distribuye como open-source. Sin registro, sin clave, sin suscripcion.
 
-**Hay costos ocultos?**
-Ninguno. La distribucion es open-source y gratuita.
+**De donde viene la descarga?**
+Directamente de la seccion de releases de este repositorio - sin redirecciones, sin acortadores, sin mirrors de terceros.
 
 ## Descargar Firewall Pro Gratis
 
-[![Download](https://img.shields.io/badge/Download-Latest_Build-brightgreen?style=for-the-badge)](../../releases)
+[![Descargar](https://img.shields.io/badge/Descargar-Latest_Build-brightgreen?style=for-the-badge)](../../releases)
 
 La version mas reciente de **Firewall Pro** es **`firewall-pro.zip`** en la seccion de [releases](../../releases) - descarga gratis, sin registro.
